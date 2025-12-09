@@ -7,6 +7,6 @@ hidden: false
 ---
 hello
 
-<br>
+<hr>
 
 world
