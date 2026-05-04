@@ -1,5 +1,5 @@
 ---
-title: Some Page
+title: Some Other Page
 deprecated: false
 hidden: false
 metadata:
