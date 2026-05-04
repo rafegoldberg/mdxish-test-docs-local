@@ -1,9 +1,10 @@
 ---
-title: Some Other Page
+title: Another Page
 deprecated: false
 hidden: false
 metadata:
   robots: index
+x-import: https://test.com/
 ---
 Fugiat esse est anim dolor. Aliqua cupidatat sit aliquip et elit. Exercitation aliquip ullamco laboris. Do veniam laborum ad cupidatat. Anim est laborum do pariatur qui magna cupidatat reprehenderit tempor tempor minim.
 
