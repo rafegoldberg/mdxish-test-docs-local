@@ -1,7 +1,7 @@
 ---
 title: Copy of Another Page
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
