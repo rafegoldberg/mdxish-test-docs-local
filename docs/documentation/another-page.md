@@ -1,5 +1,6 @@
 ---
 title: Another Page
+excerpt: Hi
 deprecated: false
 hidden: false
 metadata:
