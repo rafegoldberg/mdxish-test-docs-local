@@ -1,5 +1,5 @@
 ---
-title: Starting with MDXish Test
+title: Get Started with MDXish Test
 excerpt: >-
   This page will help you get started with MDXish Test. You'll be up and running
   in a jiffy!
