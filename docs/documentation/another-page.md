@@ -1,5 +1,5 @@
 ---
-title: Anothers Page
+title: Another Page
 excerpt: Hello
 deprecated: false
 hidden: false
